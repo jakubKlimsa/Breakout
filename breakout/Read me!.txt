@@ -1,0 +1,23 @@
+BREAKOUT
+
+Requirements:
+This game is intented to be played on a linux device.
+Also you will need to download the sdl library.
+You can install it with this command: "$ sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev"
+
+How to start the game:
+You can start the game via terminal on your PC. Just navigate to the folder with the "makefile" file. 
+Then write this command "make && ./game to start the game.
+
+How to play:
+The objective of the game is to destroy all the block with your ball.
+Use your paddle to bounce the ball around the playfield.
+If the ball gets out of the playfield you lose a life and the ball will be reset(It'll be brought back onto the paddle).
+If you lose 3 balls its game over!
+
+Controls:
+Left arrow key (hold) - To move your paddle to the left.
+Right arrow key (hold) - To move your paddle to the right.
+Space - Initiates play by serving the ball.
+
+That's all you need to know. Good Luck!
